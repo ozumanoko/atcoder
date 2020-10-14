@@ -1,1 +1,1 @@
-# atcoder
+# AtCoderのコードを記録．
